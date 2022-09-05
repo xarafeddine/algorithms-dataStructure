@@ -1,5 +1,6 @@
 function binarySearch(arr, item) {
-  // arr=arr.sort()
+  // arr should be sorted
+  
 
   let start = 0,
     end = arr.length - 1;

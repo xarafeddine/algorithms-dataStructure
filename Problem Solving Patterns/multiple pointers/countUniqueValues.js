@@ -1,5 +1,5 @@
 function countUniqueValues(arr) {
-  arr = arr.sort();
+  // arr should be sorted
   if (arr.length === 0) return 0;
   let i = 0;
 

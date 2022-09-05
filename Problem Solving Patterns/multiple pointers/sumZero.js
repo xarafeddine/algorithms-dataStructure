@@ -1,5 +1,6 @@
 function sumZero(arr) {
-  arr = arr.sort();
+    // arr should be sorted
+
   let i = 0,
     j = arr.length - 1;
 
