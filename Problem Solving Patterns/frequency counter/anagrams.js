@@ -15,4 +15,4 @@ function isAnagram(str1, str2) {
   return true;
 }
 
-console.log(isAnagram("hgoojojo", "ghjojooo"));
+console.log(isAnagram("jojo", "jjjo"));

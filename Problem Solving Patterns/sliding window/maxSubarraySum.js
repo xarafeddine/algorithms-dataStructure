@@ -35,4 +35,4 @@ function maxSubarraySum(arr, num) {
   return max;
 }
 
-console.log(maxSubarraySum([5, 3, 6, 2, 12, 4], 2));
+console.log(maxSubarraySum([5, 11, 6, 2, 12, 4], 2));
